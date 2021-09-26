@@ -1,0 +1,10 @@
+.writers-cart{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.writer-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    margin-left: 20px;
+}

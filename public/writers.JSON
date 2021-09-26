@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Ervin Howell",
+        "age": 26,
+        "country": "England",
+        "writingType": "Blogging",
+        "salary": 20000,
+        "img": "https://image.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg",
+        "email": "Shanna@melissa.tv"
+    },
+    {
+        "name": "Chelsey Dietrich",
+        "age": 23,
+        "country": "Norway",
+        "writingType": "Biography",
+        "salary": 25000,
+        "img": "https://image.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg",
+        "email": "Lucio_Hettinger@annie.ca"
+    },
+    {
+        "name": "Kurtis Weissnat",
+        "age": 32,
+        "country": "Russia",
+        "writingType": "Novel,Screen Writing",
+        "salary": 36000,
+        "img": "https://image.freepik.com/free-photo/portrait-smiling-young-man-eyewear_171337-4842.jpg",
+        "email": "Telly.Hoeger@billy.biz"
+    },
+    {
+        "name": "Nicholas Runol",
+        "age": 33,
+        "country": "USA",
+        "writingType": "Blogging,Content Writing",
+        "salary": 51000,
+        "img": "https://image.freepik.com/free-photo/young-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-65212.jpg",
+        "email": "Sherwood@rosamond.me"
+    },
+    {
+        "name": "Samantha Bill",
+        "age": 22,
+        "country": "Finland",
+        "writingType": "Biography,Screen Writing",
+        "salary": 20000,
+        "img": "https://image.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg",
+        "email": "sam_bill@dill.me"
+    },
+    {
+        "name": "Glenna Reichert",
+        "age": 34,
+        "country": "Australia",
+        "writingType": "Screen Writing,Speech Writing",
+        "salary": 40000,
+        "img": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg",
+        "email": "Chaim_McDermott@dana.io"
+    },
+    {
+        "name": "Leanne Graham",
+        "age": 30,
+        "country": "England",
+        "writingType": "Content Writing",
+        "salary": 35000,
+        "img": "https://image.freepik.com/free-photo/indoor-shot-serious-redhead-youngster-has-thick-ginger-beard-mustache-looks-confidently-wears-fashionable-shirt-has-specific-appearance_273609-16416.jpg",
+        "email": "Sincere@april.biz"
+    },
+    {
+        "name": "Clementina DuBuque",
+        "age": 38,
+        "country": "Australia",
+        "writingType": "Blogging,Speech Writing",
+        "salary": 45000,
+        "img": "https://image.freepik.com/free-photo/young-lady-with-hands-crossed-yellow-jacket-looking-cheerful-front-view_176474-104235.jpg",
+        "email": "Rey.Padberg@karina.biz"
+    },
+    {
+        "name": "Carly Rey",
+        "age": 24,
+        "country": "England",
+        "writingType": "Screen Writing,Speech Writing",
+        "salary": 23000,
+        "img": "https://image.freepik.com/free-photo/portrait-young-beautiful-blond-haired-wearing-trendy-glasses-casual-clothes-posing-black-background_158595-1785.jpg",
+        "email": "Rey.Padberg@karina.biz"
+    },
+    {
+        "name": "Orlando Rain",
+        "age": 40,
+        "country": "Thailand",
+        "writingType": "Blogging,Speech Writing",
+        "salary": 45000,
+        "img": "https://image.freepik.com/free-photo/happy-asian-man-standing-with-arms-crossed-grey-wall_171337-10467.jpg",
+        "email": "orland.Padberg@karina.biz"
+    },
+    {
+        "name": "Emily Watts",
+        "age": 28,
+        "country": "USA",
+        "writingType": "Content Writing,Speech Writing",
+        "salary": 56000,
+        "img": "https://image.freepik.com/free-photo/satisfied-smiling-girl-showing-curly-hair-after-hairdressing-beauty-salon_176420-20235.jpg",
+        "email": "emilia_watts@emi.me"
+    },
+    {
+        "name": "Kally Clerk",
+        "age": 36,
+        "country": "Australia",
+        "writingType": "Blogging,Content Writing",
+        "salary": 47000,
+        "img": "https://image.freepik.com/free-photo/friendly-smiling-woman-looking-pleased-front_176420-20779.jpg",
+        "email": "Rey.Padberg@kally.biz"
+    }
+]
