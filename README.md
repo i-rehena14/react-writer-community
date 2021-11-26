@@ -1,6 +1,6 @@
 # Writer Community
 
-Site link:https://adoring-jepsen-e965f7.netlify.app/).
+Live Site link:https://adoring-jepsen-e965f7.netlify.app/.
 
 ## About the Project
 
